@@ -1,0 +1,6 @@
+{
+  "name": "node-red-railway",
+  "version": "4.0.9",
+  "description": "Node-RED instance running on Railway",
+  "dependencies": {}
+}
